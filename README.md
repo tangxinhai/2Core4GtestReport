@@ -2,9 +2,9 @@
 
 * **Bid Ask Spread(BAS)**：用于衡量买单价和卖单价的价差
 
-$$
+$`
 BAS= \frac{OfferPrice_0}{BidPrice_0}-1
-$$
+`$
 
 * **Weighted Averaged Price(WAP)**：加权平均价格
 
